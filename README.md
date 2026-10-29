@@ -1,4 +1,4 @@
-# 🛒 Online Auction Web App
+# 🛒 Auctiz - Online Auction Web App
 
 An **online auction platform** built with **React**, **Node.js**, **TailwindCSS**, and **MongoDB**, allowing users to bid on products in real-time, manage auction listings, and securely process transactions.
 
